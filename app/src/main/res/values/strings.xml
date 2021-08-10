@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LandTracker</string>
+    <string name="txtTitulo">Land Tracker</string>
+    <string name="txtSiguientes">Siguientes parcelas en resetear:</string>
+</resources>
